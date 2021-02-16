@@ -4,9 +4,9 @@ Given a string of text, write a program that prints a list of unique words conta
 For example, given the input ...
 “This is a test. That is not a test. Test”
 ... the expected output could be ...
-test 3 
-a 2 
-is 2 
-not 1 
-that 1 
-this 1
+test 3 <br />
+a 2 <br />
+is 2 <br />
+not 1 <br />
+that 1 <br />
+this 1 <br />
